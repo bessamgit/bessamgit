@@ -1,17 +1,43 @@
-<h1 align="center">Hi 👋, I'm Bessam Sellahi</h1>
-<h3 align="center">--Beginner Software Developer | Python, AI, and Object Detection Projects--</h3>
+# 👋 Hi, I'm Bessam Sellahi  
+![Cool Welcome Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-- 🔭 I’m currently working on **image processing project**
+**🚀 Beginner Software Developer | Python, AI, and Object Detection Projects**  
 
-- 📫 How to reach me **bessammselahi@gmail.com**
+🔥 I’m currently working on AI and object detection projects using Python and OpenCV.  
+💡 I’m continuously learning and improving my skills in software development.  
+📚 Passionate about AI, data science, and solving real-world problems.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bessam-sellahi-76b3b6316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bessam-sellahi-76b3b6316/" height="30" width="40" /></a>
-<a href="https://fb.com/bessamsellahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bessamsellahi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bessam_sellahi_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bessam_sellahi_1" height="30" width="40" /></a>
-<a href="https://discord.gg/bessamsellahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bessamsellahi" height="30" width="40" /></a>
+---
+
+## 🚀 Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c++,opencv,git,github&theme=dark"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 💌 Connect with Me  
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.facebook.com/bessamsellahi"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/bessam_sellahi_1"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://discordapp.com/users/bessamsellahi"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bessam-sellahi-76b3b6316/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+## ✨ GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BessamSellahi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BessamSellahi&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+## 👾 Fun Fact  
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+Thanks for visiting my profile! 😊
