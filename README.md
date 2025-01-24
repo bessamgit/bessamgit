@@ -11,7 +11,11 @@
 
 ## 🚀 Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c++,opencv,git,github&theme=dark"/>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%23D15D48.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
