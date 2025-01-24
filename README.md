@@ -12,7 +12,7 @@
 ## 🛠️ Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,opencv,git,github,vscode" />
+ <img src="https://skillicons.dev/icons?i=python,cpp,opencv,git,github,vscode," />
 </div>
 
 ## 💻 Tech Stack
@@ -25,34 +25,41 @@
 ## 📬 Connect with Me
 
 <div align="center">
-  <a href="mailto:bessammselahi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-bessammselahi@gmail.com-05122A?style=flat&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/bessam-sellahi-76b3b6316/" target="_blank">
-    <img src="https://img.shields.io/badge/-Bessam%20Sellahi-05122A?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/bessamsellahi" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" alt="Facebook">
-  </a>
-  <a href="https://www.hackerrank.com/bessam_sellahi_1" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=hackerrank" alt="HackerRank">
-  </a>
-  <a href="https://discordapp.com/users/bessamsellahi" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="Discord">
-  </a>
+ <!-- Option 1: Direct Gmail Compose -->
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bessammselahi@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/-Open Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+ </a>
+
+ <!-- Option 2: Copy Email to Clipboard -->
+ <a href="#" onclick="navigator.clipboard.writeText('bessammselahi@gmail.com').then(() => alert('Email copied to clipboard!'));">
+   <img src="https://img.shields.io/badge/-Copy Email-2962FF?style=for-the-badge&logo=copy&logoColor=white" alt="Copy Email">
+ </a>
+
+ <a href="https://www.linkedin.com/in/bessam-sellahi-76b3b6316/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn">
+ </a>
+ <a href="https://www.facebook.com/bessamsellahi" target="_blank">
+   <img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" alt="Facebook">
+ </a>
+ <a href="https://www.hackerrank.com/bessam_sellahi_1" target="_blank">
+   <img src="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=hackerrank" alt="HackerRank">
+ </a>
+ <a href="https://discordapp.com/users/bessamsellahi" target="_blank">
+   <img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="Discord">
+ </a>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BessamSellahi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BessamSellahi&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BessamSellahi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BessamSellahi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BessamSellahi&theme=radical&no-frame=true&margin-w=15"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=BessamSellahi&theme=radical&no-frame=true&margin-w=15"/>
 </div>
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
