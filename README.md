@@ -17,8 +17,7 @@
 ---
 
 ## 💌 Connect with Me  
-<p align="center">
-<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;bessammselahi&#64;gmail&#46;com">
+<a href="mailto:bessammselahi@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
   <a href="https://www.facebook.com/bessamsellahi"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
