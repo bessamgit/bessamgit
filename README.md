@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Bessam%20Sellahi&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%">
   
-  <h2>🚀 Transforming Ideas into Intelligent Solutions</h2>
+  <h2>🚀 Transforming Problems into Intelligent Solutions</h2>
 </div>
 
 ## 🚀 About Me
