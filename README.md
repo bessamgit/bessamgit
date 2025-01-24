@@ -37,18 +37,7 @@
  </a>
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BessamSellahi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BessamSellahi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=BessamSellahi&theme=radical&no-frame=true&margin-w=15"/>
-</div>
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
