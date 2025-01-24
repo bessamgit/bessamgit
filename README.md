@@ -12,7 +12,7 @@
 ## 🛠️ Skills
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=python,cpp,opencv,git,github,tensorflow,vscode,linux" />
+ <img src="https://skillicons.dev/icons?i=python,cpp,opencv,git,github,vscode" />
 </div>
 
 ## 📬 Connect with Me
