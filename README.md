@@ -12,27 +12,15 @@
 ## 🛠️ Skills
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=python,cpp,opencv,git,github,vscode," />
+ <img src="https://skillicons.dev/icons?i=python,cpp,opencv,git,github,tensorflow,vscode,linux" />
 </div>
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ## 📬 Connect with Me
 
 <div align="center">
- <!-- Option 1: Direct Gmail Compose -->
+ <!-- Direct Gmail Compose -->
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bessammselahi@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/-Open Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
- </a>
-
- <!-- Option 2: Copy Email to Clipboard -->
- <a href="#" onclick="navigator.clipboard.writeText('bessammselahi@gmail.com').then(() => alert('Email copied to clipboard!'));">
-   <img src="https://img.shields.io/badge/-Copy Email-2962FF?style=for-the-badge&logo=copy&logoColor=white" alt="Copy Email">
+   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
  </a>
 
  <a href="https://www.linkedin.com/in/bessam-sellahi-76b3b6316/" target="_blank">
