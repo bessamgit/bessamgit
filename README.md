@@ -12,28 +12,26 @@
 ## 🛠️ Skills
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=python,cpp,opencv,git,github,vscode" />
+ <img src="https://skillicons.dev/icons?i=python,cpp,opencv,git,github,tensorflow,vscode,linux" />
 </div>
 
 ## 📬 Connect with Me
 
 <div align="center">
- <!-- Direct Gmail Compose -->
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bessammselahi@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+   <img src="https://img.shields.io/badge/-Email-05122A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
  </a>
-
  <a href="https://www.linkedin.com/in/bessam-sellahi-76b3b6316/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn">
+   <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
  </a>
  <a href="https://www.facebook.com/bessamsellahi" target="_blank">
-   <img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" alt="Facebook">
+   <img src="https://img.shields.io/badge/-Facebook-05122A?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
  </a>
  <a href="https://www.hackerrank.com/bessam_sellahi_1" target="_blank">
-   <img src="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=hackerrank" alt="HackerRank">
+   <img src="https://img.shields.io/badge/-HackerRank-05122A?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
  </a>
  <a href="https://discordapp.com/users/bessamsellahi" target="_blank">
-   <img src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="Discord">
+   <img src="https://img.shields.io/badge/-Discord-05122A?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
  </a>
 </div>
 
