@@ -8,8 +8,7 @@
 **Beginner Software Developer | Python, AI, and Object Detection Enthusiast**
 
 🔥 Currently diving deep into AI and object detection projects using Python and OpenCV  
-💡 Continuously learning and pushing the boundaries of software development  
-📚 Passionate about transforming ideas into intelligent solutions
+💡 Continuously learning and pushing the boundaries of software development 
 
 ## 🛠️ Skills
 
